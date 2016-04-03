@@ -1,0 +1,1 @@
+<resources><declare-styleable name="JazzyViewPager"><attr name="outlineEnabled" format="boolean" /><attr name="outlineColor" format="color|reference" /></declare-styleable><color name="holo_blue">#FF33E5B5</color></resources>

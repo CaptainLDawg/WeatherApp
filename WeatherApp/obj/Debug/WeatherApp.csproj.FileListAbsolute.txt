@@ -1,0 +1,118 @@
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.WeatherApp.apk
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.WeatherApp-Signed.apk
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\RestSharp.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\SQLite-net.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\UrlImageViewHelper.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.pdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.pdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\RestSharp.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\android\bin\WeatherApp.WeatherApp.apk
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\layout\options.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\layout\forecast.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\layout\main.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\values\strings.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\drawable\icon.png
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\drawable\back.xml
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\drawable\questionmark.png
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\R.cs.flag
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.dll.mdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\Users\Logan Daniel\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\WeatherApp.WeatherApp.apk
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\WeatherApp.WeatherApp-Signed.apk
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\RestSharp.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\SQLite-net.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\UrlImageViewHelper.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.pdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.pdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\RestSharp.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\android\bin\WeatherApp.WeatherApp.apk
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\res\layout\options.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\res\layout\forecast.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\res\layout\main.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\res\values\strings.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\res\drawable\icon.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\res\drawable\back.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\res\drawable\questionmark.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\R.cs.flag
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\WeatherApp.1.0\WeatherApp\bin\Debug\WeatherApp.dll.mdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\WeatherApp.WeatherApp.apk
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\WeatherApp.WeatherApp-Signed.apk
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\AndHUD.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\RestSharp.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\SQLite-net.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\SQLitePCL.raw.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\UrlImageViewHelper.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.pdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.dll.mdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.pdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\RestSharp.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\SQLite-net.dll.mdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\android\bin\WeatherApp.WeatherApp.apk
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\layout\options.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\layout\forecast.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\layout\splashscreen.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\layout\main.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\values\strings.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\icon.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\back.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\questionmark.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\clearday.jpg
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\few_clouds.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\scattered_clouds.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\rain.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\storm.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\mist.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\snow.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\splash.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\splashlogo.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\R.cs.flag
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\uploadflags.txt
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\values\colors.xml
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\res\drawable\forecast.png
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\bin\Debug\WeatherApp.dll.mdb

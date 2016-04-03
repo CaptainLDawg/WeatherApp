@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\AndHUD\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\Geolocator.Plugin\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\RestSharp\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\UrlImageViewHelper\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\AndHUD\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\Geolocator.Plugin\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\RestSharp\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\UrlImageViewHelper\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\AndHUD.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\Geolocator.Plugin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\RestSharp.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Data\WeatherApp\WeatherApp.1.2\WeatherApp\obj\Debug\__library_projects__\UrlImageViewHelper.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

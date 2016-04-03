@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="strHumidity">Humidity \n0%</string>
+    <string name="strFeelsLike">Feels like \n0°</string>
+    <string name="WeatherCond">Weather \nLoading</string>
+    <string name="Measurements">Are you from the USA or \nthe rest of the world?</string> 
+</resources>
